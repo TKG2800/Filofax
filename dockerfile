@@ -19,4 +19,4 @@ WORKDIR /app
 VOLUME [" C:/Users/iwamatsutakumi/Documents/python/Django/Filofax:/app"]
 
 # コンテナ内で実行するコマンド
-CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
+# CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
